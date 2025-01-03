@@ -1,5 +1,6 @@
 Configuration
 Virtual, higher energetic state world
+Super computer
 Custom android
 LED
 Virtual broad spectrum healing v1, digital identity and number, and follwing info info about the human body
