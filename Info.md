@@ -11,7 +11,7 @@ Text, the manifestations of these harmful energies might be similar to that of e
 In new tab on the browser, Addon to Virtual broad spectrum healing v1 etc.
 In new tab on the browser, LaTeX
 In new tab on the browser, Image to PDF
-In new tab on the browser, autodesk maya
+In new tab on the browser, Autodesk maya
 In new tab on the browser, Virtual Private Network
 In new tab on the browser, Aerial-vehicle.md
 In new tab on the browser, Google earth
