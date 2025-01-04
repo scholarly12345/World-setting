@@ -1,4 +1,4 @@
-From the perspective of healing maladies
+From the perspective of healing
 Configuration
 Virtual, higher energetic state world
 In new tab on the browser, Super computer
@@ -12,3 +12,4 @@ In new tab on the browser, Addon to Virtual broad spectrum healing v1 etc.
 In new tab on the browser, LaTeX
 In new tab on the browser, Image to PDF
 In new tab on the browser, Virtual Private Network
+In new 
