@@ -12,4 +12,7 @@ In new tab on the browser, Addon to Virtual broad spectrum healing v1 etc.
 In new tab on the browser, LaTeX
 In new tab on the browser, Image to PDF
 In new tab on the browser, Virtual Private Network
-In new 
+In new tab on the browser, Aerial-vehicle.md
+In new tab on the browser, Google earth
+In new tab on the browser, Cortana (virtual assistant).md
+
