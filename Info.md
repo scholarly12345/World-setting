@@ -50,3 +50,17 @@ In new tab on the browser, Autodesk maya
 In new tab on the browser, Virtual Private Network
 In new tab on the browser, Cortana (virtual assistant).md
 
+From the perspective of healing part 4
+Configuration
+Virtual
+In new tab on the browser, Super computer
+In new tab on the browser, Custom android
+In new tab on the browser, LED
+In new tab on the browser, Virtual-healing-v1.md
+In new tab on the browser, Info-periodic-table-v1.md
+In new tab on the browser, Flu-and-steps-addon-2.md
+In new tab on the browser, LaTeX
+In new tab on the browser, Image to PDF
+In new tab on the browser, Autodesk maya
+In new tab on the browser, Virtual Private Network
+In new tab on the browser, Cortana (virtual assistant).md
